@@ -1,3 +1,3 @@
-# Project 2: gallery-project
- 
-## Uses html and css and tailwing to make an image gallery
+# Project 2:gallery-project
+
+## Uses html and tailwind to make an image gallery showcasing bikes
